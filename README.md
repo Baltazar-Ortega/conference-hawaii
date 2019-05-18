@@ -1,2 +1,2 @@
-# conferencia-hawaii
-Proyecto de Bootstrap - Platzi
+# conference-hawaii
+Bootstrap project - Platzi
